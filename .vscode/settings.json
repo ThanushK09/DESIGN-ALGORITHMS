@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "QUICKSORT.C": "cpp",
+        "MERGESORT.C": "cpp",
+        "KRUSKAL.C": "cpp"
+    }
+}
